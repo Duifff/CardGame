@@ -1,0 +1,12 @@
+﻿body {
+}
+.header{
+    background-color: #F7F7F7;
+    padding: 3rem;
+}
+
+.form {
+    display: block;
+    text-align: center;
+    margin-top: 5rem;
+}
